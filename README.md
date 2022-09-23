@@ -5,7 +5,7 @@ This project is a holiday idea generator. For this project, i built a message ge
 
 Click on the link below to try the generator:
 
-http://htmlpreview.github.io/?https://github.com/rufaro-ndhlovu/holiday-idea-generator/blob/main/index.html
+https://rufaro-ndhlovu.github.io/holiday-idea-generator/
 
 ## 💻 Project Objectives:
 
